@@ -19,7 +19,7 @@ public class JSON extends Document {
             }
         }
 
-        System.out.println("I made a change here");
+        System.out.println("I made a strange change here");
         return Arrays.copyOf(res, pos);
     }
 
